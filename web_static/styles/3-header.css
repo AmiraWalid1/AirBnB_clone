@@ -4,10 +4,9 @@ header {
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
     display: flex;
-
 }
 header::before {
-    content: url('/web_static/images/logo.png');
+    content: url('../images/logo.png');
     padding-left: 20px;
     align-self: center;
     
